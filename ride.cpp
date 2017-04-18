@@ -1,4 +1,5 @@
 /*
+USACO 1.1 PROB Your Ride Is Here
 ID:Ching_s1
 PROG:ride
 LANG: C++
